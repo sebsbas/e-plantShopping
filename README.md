@@ -1,1 +1,2 @@
 # coding-project-template
+Proyecto e-plantShopping, es una plataforma que permite la visualización y compra de plantas elaborada por sebastian Piñeros con base a las herramientas dadas por el curso de fullstack de IBM.
